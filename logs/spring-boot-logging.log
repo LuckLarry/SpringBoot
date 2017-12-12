@@ -1,0 +1,20 @@
+2017-12-12 09:10:20.008  INFO 15168 --- [restartedMain] com.company.TestBoot.Application         : Starting Application on andy-PC with PID 15168 (D:\www\TestBoot\target\classes started by andy in D:\www\TestBoot)
+2017-12-12 09:10:20.009  INFO 15168 --- [restartedMain] com.company.TestBoot.Application         : No active profile set, falling back to default profiles: default
+2017-12-12 09:10:20.377  INFO 15168 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service Tomcat
+2017-12-12 09:10:20.377  INFO 15168 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.11
+2017-12-12 09:10:20.383  INFO 15168 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2017-12-12 09:10:20.719  INFO 15168 --- [restartedMain] com.company.TestBoot.Application         : Started Application in 0.841 seconds (JVM running for 317.419)
+2017-12-12 09:10:37.385  INFO 15168 --- [restartedMain] com.company.TestBoot.Application         : Starting Application on andy-PC with PID 15168 (D:\www\TestBoot\target\classes started by andy in D:\www\TestBoot)
+2017-12-12 09:10:37.385  INFO 15168 --- [restartedMain] com.company.TestBoot.Application         : No active profile set, falling back to default profiles: default
+2017-12-12 09:10:37.749  INFO 15168 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service Tomcat
+2017-12-12 09:10:37.750  INFO 15168 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.11
+2017-12-12 09:10:37.757  INFO 15168 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2017-12-12 09:10:38.098  INFO 15168 --- [restartedMain] com.company.TestBoot.Application         : Started Application in 0.743 seconds (JVM running for 334.798)
+2017-12-12 09:10:50.313  INFO 15168 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring FrameworkServlet 'dispatcherServlet'
+2017-12-12 09:11:01.317  INFO 3256 --- [restartedMain] com.company.TestBoot.Application         : Starting Application on andy-PC with PID 3256 (D:\www\TestBoot\target\classes started by andy in D:\www\TestBoot)
+2017-12-12 09:11:01.318  INFO 3256 --- [restartedMain] com.company.TestBoot.Application         : No active profile set, falling back to default profiles: default
+2017-12-12 09:11:02.929  INFO 3256 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service Tomcat
+2017-12-12 09:11:02.930  INFO 3256 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/8.5.11
+2017-12-12 09:11:03.009  INFO 3256 --- [localhost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2017-12-12 09:11:04.340  INFO 3256 --- [restartedMain] com.company.TestBoot.Application         : Started Application in 3.345 seconds (JVM running for 3.677)
+2017-12-12 09:11:37.842  INFO 3256 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring FrameworkServlet 'dispatcherServlet'
